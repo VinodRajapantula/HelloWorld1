@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21" started-at="2017-07-27T02:46:00Z" finished-at="2017-07-27T02:46:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21" started-at="2017-07-27T02:46:00Z" finished-at="2017-07-27T02:46:00Z">
+      <class name="MyTests1.MyFirstTest1">
+        <test-method status="PASS" signature="BeforeTest1()[pri:0, instance:MyTests1.MyFirstTest1@4cc0edeb]" name="BeforeTest1" is-config="true" duration-ms="6" started-at="2017-07-27T08:16:00Z" finished-at="2017-07-27T08:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:MyTests1.MyFirstTest1@4cc0edeb]" name="test1" duration-ms="4" started-at="2017-07-27T08:16:00Z" finished-at="2017-07-27T08:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:MyTests1.MyFirstTest1@4cc0edeb]" name="BeforeMethod1" is-config="true" duration-ms="0" started-at="2017-07-27T08:16:00Z" finished-at="2017-07-27T08:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:MyTests1.MyFirstTest1@4cc0edeb]" name="test2" duration-ms="1" started-at="2017-07-27T08:16:00Z" finished-at="2017-07-27T08:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="BeforeMethod1()[pri:0, instance:MyTests1.MyFirstTest1@4cc0edeb]" name="BeforeMethod1" is-config="true" duration-ms="0" started-at="2017-07-27T08:16:00Z" finished-at="2017-07-27T08:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod1 -->
+      </class> <!-- MyTests1.MyFirstTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
